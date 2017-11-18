@@ -1,0 +1,1 @@
+java zadanie 8 9 >> wynik.txt

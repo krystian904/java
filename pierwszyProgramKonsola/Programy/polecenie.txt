@@ -1,0 +1,1 @@
+javac program.java -d E:\java\pierwszyProgramKonsola\Programy

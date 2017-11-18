@@ -1,0 +1,3 @@
+javac zadanie.java " skompliwanie "
+java zadanie "krystian"[imie] "nazwisko"[nazwisko] "adres"[adres] >> wynikKonsoli.txt
+nie trzeba podawac wszystkeigo ale trzeba w kolejnosci

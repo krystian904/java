@@ -1,0 +1,6 @@
+a = 5, b = 2
+a/b = 2
+a!=b = true
+a%b > --b ? -3 : 17 = 17
+++b-a = -3
+a/(float)b == a/b = false
